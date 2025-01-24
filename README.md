@@ -5,6 +5,12 @@
 This repository contains the implementation and documentation for the **Cervical Cancer Risk Prediction** project. The goal of this project is to develop a machine learning model that provides precise risk assessments for cervical cancer, leveraging demographic, clinical, and biological data. This work has significant implications for early detection, prevention, and optimized healthcare resource allocation.
 Sophomore Year Machine Learning course project.
 
+_this is a condensed readme file; a full project report and presentation are part of this repo_
+
+[Project Report](Project%20Report-%20Cervical%20Cancer%20Risk%20Predictionc.pdf) <br>
+[Presentation](Cervical%20Cancer%20Detection%20Using%20Machine%20Learning.pdf)
+
+
 ---
 
 ## Table of Contents
