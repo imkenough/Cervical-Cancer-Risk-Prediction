@@ -34,6 +34,8 @@ Cervical cancer is one of the most preventable yet prevalent cancers affecting w
 - Improve resource allocation for screening programs.
 - Reduce the global burden of cervical cancer.
 
+Obtained Dataset from [Kaggle](https://www.kaggle.com/datasets/ranzeet013/cervical-cancer-dataset)
+
 ---
 
 ## Features and Methodology
